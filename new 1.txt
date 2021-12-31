@@ -1,0 +1,9 @@
+import java.lang.*;
+class MyFirst
+{
+public stattic void main(String agr[])
+{
+ System.ut.println("Hello World")
+ }
+ }
+ 
